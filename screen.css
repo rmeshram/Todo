@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  max-width: auto;
+  margin: auto;
+  width: 400px;
+}
+
+.tab-link {
+  padding: 40px;
+}
+
+.heading-button {
+  background-color: transparent;
+  border:none;
+}
+
+#search-box {
+  width: 400px;
+  padding: 15px;
+  margin:auto;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+body {
+  margin: 20px;
+}
+
+div#pagination {
+  text-align: center;
+}
